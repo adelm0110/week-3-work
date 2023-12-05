@@ -10,3 +10,6 @@ p {
     max-width: 1200px;
     color: aliceblue;
 }
+head {
+    background-color: aliceblue;
+}
