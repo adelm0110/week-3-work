@@ -1,0 +1,12 @@
+label {
+    margin: auto;
+    text-align: center;
+    color:gray
+}
+p {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    max-width: 1200px;
+    color: aliceblue;
+}

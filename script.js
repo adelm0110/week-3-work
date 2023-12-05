@@ -1,9 +1,5 @@
 document.querySelector('form').addEventListener('submit' , checkGrade);
 
-const gradeA = 90;
-const gradeB = 80;
-const gradeC = 70;
-const gradeD = 60;
 
 function checkGrade(e) {
     e.preventDefault();
